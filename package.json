@@ -1,0 +1,8 @@
+{
+  "name": "js-ckkdqk",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "vue": "^2.6.11"
+  }
+}
